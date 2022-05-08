@@ -1,9 +1,7 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan
 //
 // MoneyBee: Login Form
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: This form functions in presenting the user with a visual 
 //          login form for them to log into the system. This form
