@@ -1,9 +1,7 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan
 //
 // MoneyBee: History
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: The class functions in managing the history of the done and 
 //          undone commands by the user, managing the undo and redo
