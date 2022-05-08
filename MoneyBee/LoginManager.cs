@@ -1,9 +1,7 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan
 //
 // MoneyBee: Login Manager
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: This class functions in managing the login process and
 //          communicates with the database manager to ensure all the 
