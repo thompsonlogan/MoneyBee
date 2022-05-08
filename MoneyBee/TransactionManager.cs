@@ -1,9 +1,7 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan
 //
 // MoneyBee: Transaction Manager
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: This class functions in manage the creating and removal of
 //          of categories and transaction as well as functions in setting
