@@ -1,5 +1,4 @@
 ﻿//---------------------------------------------------------------
-// Name:    Andi Fuerst, Logan Thompson, Sammy Edwards, and Nathan Kawula
 //
 // Project: MoneyBee
 //
