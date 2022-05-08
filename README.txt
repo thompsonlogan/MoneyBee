@@ -2,6 +2,11 @@
 
 README updated 5/17/2020
 
+Sammy Edwards
+Andi Fuerst
+Nathan Kawula
+Logan Thompson
+
 *****General Description*****
 Money Bee is a simplified budgeting application that allows its user to enter and track his/her transactions.
 Further details about its anticipated capabilities are provided in our Jira Backlog
@@ -11,11 +16,11 @@ Compile with Visual Studio 2019, when presented with the login form you can logi
 
 *****Required Files*****
 (in project src folder)
-addCategoryCommand.cs
+AddCategoryCommand.cs
 AddTransactionCommand.cs
 AutomaticList.cs
-CancelAutoForm.cs
 CancelAutoForm.Designer.cs
+CancelAutoForm.cs
 CancelAutoForm.resx
 Category.cs
 CategoryList.cs
@@ -23,13 +28,13 @@ Command.cs
 DatabaseManager.cs
 Date.cs
 EditTransactionCommand.cs
-EditTransactionForm.cs
 EditTransactionForm.Designer.cs
+EditTransactionForm.cs
 EditTransactionForm.resx
 Handler.cs
 History.cs
-LoginForm.cs
 LoginForm.Designer.cs
+LoginForm.cs
 LoginForm.resx
 LoginManager.cs
 MoneyBee - Long.jpg
@@ -38,28 +43,29 @@ MoneyBee.csproj.user
 MoneyBee.jpg
 MoneyBee.sln
 MoneyBeeDataBase.mdf
-MoneyBeeDataBase_log.ldf
 MoneyBeeDataBaseDataSet.Designer.cs
 MoneyBeeDataBaseDataSet.xsc
 MoneyBeeDataBaseSet.xsd
 MoneyBeeDataBaseDataSet.xss
-MoneyBeeForm.cs
+MoneyBeeDataBase_log.ldf
 MoneyBeeForm.Designer.cs
+MoneyBeeForm.cs
 MoneyBeeForm.resx
 MoneyBeeProgram.cs
 Notifications.cs
-RegisterForm.cs
 RegisterForm.Designer.cs
+RegisterForm.cs
 RegisterForm.resx
 RegistrationManager.cs
-RemoveCategoryCommand.cs
 Transaction.cs
-TransactionForm.cs
 TransactionForm.Designer.cs
+TransactionForm.cs
 TransactionForm.resx
 TransactionHistory.cs
 TransactionManager.cs
 User.cs
+
+RemoveCategoryCommand.cs - missing
 
 *****Known Bugs/Design Deficiencies*****
 - New Transaction: Upon creation. The maximum amount for an expense/revenue automatically 0's off to avoid out of Int32 bounds (reason for bug: amount entered not intended to be excessively great)
