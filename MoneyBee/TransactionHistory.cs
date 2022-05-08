@@ -1,8 +1,6 @@
 ﻿//---------------------------------------------------------------------
-// Name: Nathan Kawula
 // MoneyBee: TransactionHistory.cs (Class/Linked List)
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: Linked List of Transaction object creations
 //
