@@ -1,9 +1,7 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan
 //
 // MoneyBee: Notifications
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: This class functions in send email notification to the user
 //          when they register. Plan to expend in coming updates
