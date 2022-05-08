@@ -1,8 +1,6 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan Thompson
 // MoneyBee: User.cs
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: Class to encapsulate the data of a registered user.
 //          Data is defined by a name (string), a username (string),
