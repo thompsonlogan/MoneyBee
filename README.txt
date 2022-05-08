@@ -2,11 +2,6 @@
 
 README updated 5/17/2020
 
-Sammy Edwards
-Andi Fuerst
-Nathan Kawula
-Logan Thompson
-
 *****General Description*****
 Money Bee is a simplified budgeting application that allows its user to enter and track his/her transactions.
 Further details about its anticipated capabilities are provided in our Jira Backlog
