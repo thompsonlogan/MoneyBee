@@ -1,9 +1,7 @@
 ﻿//---------------------------------------------------------------------
-// Name: Logan
 //
 // MoneyBee: Register form
 //
-// Course:  SE 3330, Spring 2020
 //
 // Purpose: This form functions in displaying the regrestration process
 //          to the user and communicates with the regrestration manager
